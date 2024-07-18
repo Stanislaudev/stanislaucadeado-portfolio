@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Josefin Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vh;
+    height: 100vh;
+}
+.backgroundclip{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
